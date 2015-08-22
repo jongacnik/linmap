@@ -1,0 +1,23 @@
+{
+  "name": "linmap",
+  "version": "1.0.0",
+  "description": "Linear map",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amongiants/linmap"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "keywords": [
+    "linear",
+    "map",
+    "transform"
+  ],
+  "author": "Jon Gacnik <jon@folderstudio.com> (http://jongacnik.com/)",
+  "license": "MIT",
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/amongiants/linmap/issues"
+  },
+  "homepage": "https://github.com/amongiants/linmap"
+}
